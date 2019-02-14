@@ -1,2 +1,3 @@
 # USGS_Earthquake_DataViz
-Assignment 14 (Leaflet/GeoJSON/JavaScript)
+
+Leaflet map that plots United States Geological Survey earthquake data based on longitude and latitude.
